@@ -7,5 +7,5 @@ Le but du TP sera de corriger le code de la classe `Complex` en s'aidant de test
 
 ## Membres du projet
 
-- Harmoush, Jad, 2, du premier participant
-- NOM, prénom, numéro de groupe, du deuxième participant
+- Harmoush, Jad, 2
+- Mbaye, Ahmadou bamba, 2
