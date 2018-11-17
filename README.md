@@ -9,3 +9,6 @@ Le but du TP sera de corriger le code de la classe `Complex` en s'aidant de test
 
 - Harmoush, Jad, 2
 - Mbaye, Ahmadou bamba, 2
+
+Le Projet Final figure sur https://github.com/L2InfoAMU/tp4-info-mandelbrot-jad-and-mbaye.git
+Nom Du Groupe: tp4-info-mandelbrot-jad-and-mbaye
